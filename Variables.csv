@@ -1,0 +1,42 @@
+Collection, Group, Name, Type, Mode, Value, ID
+Primitives,colors/brand/,beaver orange,COLOR,Mode 1,"d73f09ff",11:3
+Primitives,colors/brand/,paddletail black,COLOR,Mode 1,"000000ff",11:4
+Primitives,colors/brand/,bucktooth white,COLOR,Mode 1,"ffffffff",11:5
+Primitives,colors/brand/,pine stand,COLOR,Mode 1,"4a773cff",11:6
+Primitives,colors/brand/,high tide,COLOR,Mode 1,"00859bff",11:7
+Primitives,colors/brand/,luminance,COLOR,Mode 1,"ffb500ff",11:8
+Primitives,colors/brand/,stratosphere,COLOR,Mode 1,"006a8eff",11:9
+Primitives,colors/brand/,reindeer moss,COLOR,Mode 1,"c4d6a4ff",11:10
+Primitives,colors/brand/,seafoam,COLOR,Mode 1,"b8dde1ff",11:11
+Primitives,colors/brand/,candela,COLOR,Mode 1,"fdd26eff",11:12
+Primitives,colors/brand/,moondust,COLOR,Mode 1,"c6dae7ff",11:13
+Primitives,colors/brand/,hop pine,COLOR,Mode 1,"aa9d2eff",11:14
+Primitives,colors/brand/,rogue wave,COLOR,Mode 1,"0d5257ff",11:15
+Primitives,colors/brand/,solar flare,COLOR,Mode 1,"d3832bff",11:16
+Primitives,colors/brand/,star canvas,COLOR,Mode 1,"003b5cff",11:17
+Primitives,colors/brand/,till,COLOR,Mode 1,"b7a99aff",11:18
+Primitives,colors/brand/,coastline,COLOR,Mode 1,"a7aca2ff",11:19
+Primitives,colors/brand/,high desert,COLOR,Mode 1,"7a6855ff",11:20
+Primitives,colors/brand/,crater,COLOR,Mode 1,"8e9089ff",11:21
+Primitives,colors/neutrals/,100,COLOR,Mode 1,"f7f5f5ff",11:22
+Primitives,colors/neutrals/,200,COLOR,Mode 1,"e9e5e4ff",11:23
+Primitives,colors/neutrals/,300,COLOR,Mode 1,"d4cfcdff",11:24
+Primitives,colors/neutrals/,400,COLOR,Mode 1,"b7b1afff",11:25
+Primitives,colors/neutrals/,500,COLOR,Mode 1,"8f8582ff",11:26
+Primitives,colors/neutrals/,600,COLOR,Mode 1,"696361ff",11:27
+Primitives,colors/neutrals/,700,COLOR,Mode 1,"423e3cff",11:28
+Primitives,colors/neutrals/,800,COLOR,Mode 1,"2e2b2aff",11:29
+Primitives,colors/neutrals/,900,COLOR,Mode 1,"1f1d1cff",11:30
+Primitives,colors/neutrals/,900b,COLOR,Mode 1,"212529ff",11:31
+Primitives,colors/,lava 100,COLOR,Mode 1,"ffdedfff",11:32
+Primitives,colors/,lava 200,COLOR,Mode 1,"ee878aff",11:33
+Primitives,colors/,lava 300,COLOR,Mode 1,"e54349ff",11:34
+Primitives,colors/,lava 400,COLOR,Mode 1,"c72127ff",11:35
+Primitives,colors/,lava 500,COLOR,Mode 1,"a7262bff",11:36
+Primitives,colors/,lava 600,COLOR,Mode 1,"8c0e13ff",11:37
+Primitives,colors/,lava 700,COLOR,Mode 1,"590003ff",11:38
+Tokens,button/,primary,COLOR,Mode 1,"type:VARIABLE_ALIAS, id:VariableID:11:3",11:40
+Tokens,button/,secondary,COLOR,Mode 1,"type:VARIABLE_ALIAS, id:VariableID:11:31",11:41
+Tokens,surface/,primary,COLOR,Mode 1,"type:VARIABLE_ALIAS, id:VariableID:11:22",11:42
+Tokens,surface/,secondary,COLOR,Mode 1,"type:VARIABLE_ALIAS, id:VariableID:11:5",11:43
+Tokens,surface/,dark,COLOR,Mode 1,"type:VARIABLE_ALIAS, id:VariableID:11:31",11:44
