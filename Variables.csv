@@ -1,112 +1,78 @@
 Collection, Group, Name, Type, Mode, Value, ID
-Primitives,colors/brand/,beaver orange,COLOR,Mode 1,"d73f09ff",100:56
 Primitives,colors/brand/,beaver orange,COLOR,light,"d73f09ff",100:56
 Primitives,colors/brand/,beaver orange,COLOR,dark,"d73f09ff",100:56
-Primitives,colors/brand/,paddletail black,COLOR,Mode 1,"000000ff",100:57
 Primitives,colors/brand/,paddletail black,COLOR,light,"000000ff",100:57
 Primitives,colors/brand/,paddletail black,COLOR,dark,"000000ff",100:57
-Primitives,colors/brand/,bucktooth white,COLOR,Mode 1,"ffffffff",100:58
 Primitives,colors/brand/,bucktooth white,COLOR,light,"ffffffff",100:58
 Primitives,colors/brand/,bucktooth white,COLOR,dark,"ffffffff",100:58
-Primitives,colors/brand/,pine stand,COLOR,Mode 1,"4a773cff",100:59
 Primitives,colors/brand/,pine stand,COLOR,light,"4a773cff",100:59
 Primitives,colors/brand/,pine stand,COLOR,dark,"4a773cff",100:59
-Primitives,colors/brand/,high tide,COLOR,Mode 1,"00859bff",100:60
 Primitives,colors/brand/,high tide,COLOR,light,"00859bff",100:60
 Primitives,colors/brand/,high tide,COLOR,dark,"00859bff",100:60
-Primitives,colors/brand/,luminance,COLOR,Mode 1,"ffb500ff",100:61
 Primitives,colors/brand/,luminance,COLOR,light,"ffb500ff",100:61
 Primitives,colors/brand/,luminance,COLOR,dark,"ffb500ff",100:61
-Primitives,colors/brand/,stratosphere,COLOR,Mode 1,"006a8eff",100:62
 Primitives,colors/brand/,stratosphere,COLOR,light,"006a8eff",100:62
 Primitives,colors/brand/,stratosphere,COLOR,dark,"006a8eff",100:62
-Primitives,colors/brand/,reindeer moss,COLOR,Mode 1,"c4d6a4ff",100:63
 Primitives,colors/brand/,reindeer moss,COLOR,light,"c4d6a4ff",100:63
 Primitives,colors/brand/,reindeer moss,COLOR,dark,"c4d6a4ff",100:63
-Primitives,colors/brand/,seafoam,COLOR,Mode 1,"b8dde1ff",100:64
 Primitives,colors/brand/,seafoam,COLOR,light,"b8dde1ff",100:64
 Primitives,colors/brand/,seafoam,COLOR,dark,"b8dde1ff",100:64
-Primitives,colors/brand/,candela,COLOR,Mode 1,"fdd26eff",100:65
 Primitives,colors/brand/,candela,COLOR,light,"fdd26eff",100:65
 Primitives,colors/brand/,candela,COLOR,dark,"fdd26eff",100:65
-Primitives,colors/brand/,moondust,COLOR,Mode 1,"c6dae7ff",100:66
 Primitives,colors/brand/,moondust,COLOR,light,"c6dae7ff",100:66
 Primitives,colors/brand/,moondust,COLOR,dark,"c6dae7ff",100:66
-Primitives,colors/brand/,hop pine,COLOR,Mode 1,"aa9d2eff",100:67
 Primitives,colors/brand/,hop pine,COLOR,light,"aa9d2eff",100:67
 Primitives,colors/brand/,hop pine,COLOR,dark,"aa9d2eff",100:67
-Primitives,colors/brand/,rogue wave,COLOR,Mode 1,"0d5257ff",100:68
 Primitives,colors/brand/,rogue wave,COLOR,light,"0d5257ff",100:68
 Primitives,colors/brand/,rogue wave,COLOR,dark,"0d5257ff",100:68
-Primitives,colors/brand/,solar flare,COLOR,Mode 1,"d3832bff",100:69
 Primitives,colors/brand/,solar flare,COLOR,light,"d3832bff",100:69
 Primitives,colors/brand/,solar flare,COLOR,dark,"d3832bff",100:69
-Primitives,colors/brand/,star canvas,COLOR,Mode 1,"003b5cff",100:70
 Primitives,colors/brand/,star canvas,COLOR,light,"003b5cff",100:70
 Primitives,colors/brand/,star canvas,COLOR,dark,"003b5cff",100:70
-Primitives,colors/brand/,till,COLOR,Mode 1,"b7a99aff",100:71
 Primitives,colors/brand/,till,COLOR,light,"b7a99aff",100:71
 Primitives,colors/brand/,till,COLOR,dark,"b7a99aff",100:71
-Primitives,colors/brand/,coastline,COLOR,Mode 1,"a7aca2ff",100:72
 Primitives,colors/brand/,coastline,COLOR,light,"a7aca2ff",100:72
 Primitives,colors/brand/,coastline,COLOR,dark,"a7aca2ff",100:72
-Primitives,colors/brand/,high desert,COLOR,Mode 1,"7a6855ff",100:73
 Primitives,colors/brand/,high desert,COLOR,light,"7a6855ff",100:73
 Primitives,colors/brand/,high desert,COLOR,dark,"7a6855ff",100:73
-Primitives,colors/brand/,crater,COLOR,Mode 1,"8e9089ff",100:74
 Primitives,colors/brand/,crater,COLOR,light,"8e9089ff",100:74
 Primitives,colors/brand/,crater,COLOR,dark,"8e9089ff",100:74
-Primitives,colors/neutrals/,100,COLOR,Mode 1,"f7f5f5ff",100:75
 Primitives,colors/neutrals/,100,COLOR,light,"f7f5f5ff",100:75
 Primitives,colors/neutrals/,100,COLOR,dark,"f7f5f5ff",100:75
-Primitives,colors/neutrals/,200,COLOR,Mode 1,"e9e5e4ff",100:76
 Primitives,colors/neutrals/,200,COLOR,light,"e9e5e4ff",100:76
 Primitives,colors/neutrals/,200,COLOR,dark,"e9e5e4ff",100:76
-Primitives,colors/neutrals/,300,COLOR,Mode 1,"d4cfcdff",100:77
 Primitives,colors/neutrals/,300,COLOR,light,"d4cfcdff",100:77
 Primitives,colors/neutrals/,300,COLOR,dark,"d4cfcdff",100:77
-Primitives,colors/neutrals/,400,COLOR,Mode 1,"b7b1afff",100:78
 Primitives,colors/neutrals/,400,COLOR,light,"b7b1afff",100:78
 Primitives,colors/neutrals/,400,COLOR,dark,"b7b1afff",100:78
-Primitives,colors/neutrals/,500,COLOR,Mode 1,"8f8582ff",100:79
 Primitives,colors/neutrals/,500,COLOR,light,"8f8582ff",100:79
 Primitives,colors/neutrals/,500,COLOR,dark,"8f8582ff",100:79
-Primitives,colors/neutrals/,600,COLOR,Mode 1,"696361ff",100:80
 Primitives,colors/neutrals/,600,COLOR,light,"696361ff",100:80
 Primitives,colors/neutrals/,600,COLOR,dark,"696361ff",100:80
-Primitives,colors/neutrals/,700,COLOR,Mode 1,"423e3cff",100:81
 Primitives,colors/neutrals/,700,COLOR,light,"423e3cff",100:81
 Primitives,colors/neutrals/,700,COLOR,dark,"423e3cff",100:81
-Primitives,colors/neutrals/,800,COLOR,Mode 1,"2e2b2aff",100:82
 Primitives,colors/neutrals/,800,COLOR,light,"2e2b2aff",100:82
 Primitives,colors/neutrals/,800,COLOR,dark,"2e2b2aff",100:82
-Primitives,colors/neutrals/,900,COLOR,Mode 1,"1f1d1cff",100:83
 Primitives,colors/neutrals/,900,COLOR,light,"1f1d1cff",100:83
 Primitives,colors/neutrals/,900,COLOR,dark,"1f1d1cff",100:83
-Primitives,colors/neutrals/,900b,COLOR,Mode 1,"212529ff",100:84
 Primitives,colors/neutrals/,900b,COLOR,light,"212529ff",100:84
 Primitives,colors/neutrals/,900b,COLOR,dark,"212529ff",100:84
-Primitives,colors/,lava 100,COLOR,Mode 1,"ffdedfff",100:85
 Primitives,colors/,lava 100,COLOR,light,"ffdedfff",100:85
 Primitives,colors/,lava 100,COLOR,dark,"ffdedfff",100:85
-Primitives,colors/,lava 200,COLOR,Mode 1,"ee878aff",100:86
 Primitives,colors/,lava 200,COLOR,light,"ee878aff",100:86
 Primitives,colors/,lava 200,COLOR,dark,"ee878aff",100:86
-Primitives,colors/,lava 300,COLOR,Mode 1,"e54349ff",100:87
 Primitives,colors/,lava 300,COLOR,light,"e54349ff",100:87
 Primitives,colors/,lava 300,COLOR,dark,"e54349ff",100:87
-Primitives,colors/,lava 400,COLOR,Mode 1,"c72127ff",100:88
 Primitives,colors/,lava 400,COLOR,light,"c72127ff",100:88
 Primitives,colors/,lava 400,COLOR,dark,"c72127ff",100:88
-Primitives,colors/,lava 500,COLOR,Mode 1,"a7262bff",100:89
 Primitives,colors/,lava 500,COLOR,light,"a7262bff",100:89
 Primitives,colors/,lava 500,COLOR,dark,"a7262bff",100:89
-Primitives,colors/,lava 600,COLOR,Mode 1,"8c0e13ff",100:90
 Primitives,colors/,lava 600,COLOR,light,"8c0e13ff",100:90
 Primitives,colors/,lava 600,COLOR,dark,"8c0e13ff",100:90
-Primitives,colors/,lava 700,COLOR,Mode 1,"590003ff",100:91
 Primitives,colors/,lava 700,COLOR,light,"590003ff",100:91
 Primitives,colors/,lava 700,COLOR,dark,"590003ff",100:91
+Primitives,colors/neutrals/,font-family,STRING,light,"Stratum2Web",108:4
+Primitives,colors/neutrals/,font-family,STRING,dark,"Stratum2Web",108:4
 Tokens,button/,primary,COLOR,light,"type:VARIABLE_ALIAS, id:VariableID:100:56",100:93
 Tokens,button/,primary,COLOR,dark,"type:VARIABLE_ALIAS, id:VariableID:100:56",100:93
 Tokens,button/,secondary,COLOR,light,"type:VARIABLE_ALIAS, id:VariableID:100:84",100:94
