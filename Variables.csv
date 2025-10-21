@@ -107,18 +107,13 @@ Primitives,colors/,lava 600,COLOR,dark,"8c0e13ff",100:90
 Primitives,colors/,lava 700,COLOR,Mode 1,"590003ff",100:91
 Primitives,colors/,lava 700,COLOR,light,"590003ff",100:91
 Primitives,colors/,lava 700,COLOR,dark,"590003ff",100:91
-Tokens,button/,primary,COLOR,Mode 1,"type:VARIABLE_ALIAS, id:VariableID:100:56",100:93
 Tokens,button/,primary,COLOR,light,"type:VARIABLE_ALIAS, id:VariableID:100:56",100:93
 Tokens,button/,primary,COLOR,dark,"type:VARIABLE_ALIAS, id:VariableID:100:56",100:93
-Tokens,button/,secondary,COLOR,Mode 1,"type:VARIABLE_ALIAS, id:VariableID:100:84",100:94
 Tokens,button/,secondary,COLOR,light,"type:VARIABLE_ALIAS, id:VariableID:100:84",100:94
 Tokens,button/,secondary,COLOR,dark,"type:VARIABLE_ALIAS, id:VariableID:100:84",100:94
-Tokens,surface/,primary,COLOR,Mode 1,"type:VARIABLE_ALIAS, id:VariableID:100:75",100:95
 Tokens,surface/,primary,COLOR,light,"type:VARIABLE_ALIAS, id:VariableID:100:75",100:95
 Tokens,surface/,primary,COLOR,dark,"type:VARIABLE_ALIAS, id:VariableID:100:75",100:95
-Tokens,surface/,secondary,COLOR,Mode 1,"type:VARIABLE_ALIAS, id:VariableID:100:58",100:96
 Tokens,surface/,secondary,COLOR,light,"type:VARIABLE_ALIAS, id:VariableID:100:58",100:96
 Tokens,surface/,secondary,COLOR,dark,"type:VARIABLE_ALIAS, id:VariableID:100:58",100:96
-Tokens,surface/,dark,COLOR,Mode 1,"type:VARIABLE_ALIAS, id:VariableID:100:84",100:97
 Tokens,surface/,dark,COLOR,light,"type:VARIABLE_ALIAS, id:VariableID:100:84",100:97
 Tokens,surface/,dark,COLOR,dark,"type:VARIABLE_ALIAS, id:VariableID:100:84",100:97
