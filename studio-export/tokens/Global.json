@@ -1,0 +1,15 @@
+{
+	"beaver-orange": {
+		"$type": "color",
+		"$value": "#d73f09",
+		"$extensions": {
+			"studio.tokens": {
+				"modify": null
+			}
+		}
+	},
+	"paddletail-black": {
+		"$type": "color",
+		"$value": "#000"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"button-primary": {
+		"$type": "color",
+		"$value": "{beaver-orange}",
+		"$description": ""
+	}
+}
