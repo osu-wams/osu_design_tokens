@@ -71,8 +71,10 @@ Primitives,colors/,lava 600,COLOR,light,"8c0e13ff",100:90
 Primitives,colors/,lava 600,COLOR,dark,"8c0e13ff",100:90
 Primitives,colors/,lava 700,COLOR,light,"590003ff",100:91
 Primitives,colors/,lava 700,COLOR,dark,"590003ff",100:91
-Primitives,colors/neutrals/,font-family,STRING,light,"Stratum2Web",108:4
-Primitives,colors/neutrals/,font-family,STRING,dark,"Stratum2Web",108:4
+Primitives,,font-family,STRING,light,"Stratum2Web",108:4
+Primitives,,font-family,STRING,dark,"Stratum2Web",108:4
+Primitives,type/,font-family,STRING,light,"Stratum2Web",135:54
+Primitives,type/,font-family,STRING,dark,"Stratum2Web",135:54
 Tokens,button/,primary,COLOR,light,"type:VARIABLE_ALIAS, id:VariableID:100:56",100:93
 Tokens,button/,primary,COLOR,dark,"type:VARIABLE_ALIAS, id:VariableID:100:56",100:93
 Tokens,button/,secondary,COLOR,light,"type:VARIABLE_ALIAS, id:VariableID:100:84",100:94
